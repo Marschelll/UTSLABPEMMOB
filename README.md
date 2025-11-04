@@ -1,16 +1,33 @@
 # quiz_app
+# UTSLABPEMMOB
 
-A new Flutter project.
+# Aplikasi Kuis Pilihan Ganda
 
-## Getting Started
+**Nama:** Marschell Fideon Damanik  
+**NIM:** 231401135  
+**Lab:** 2
 
-This project is a starting point for a Flutter application.
+## Deskripsi
+Aplikasi ini adalah aplikasi kuis pilihan ganda sederhana di Flutter.  
+Pengguna dapat memasukkan nama, menjawab pertanyaan, dan melihat skor akhirnya.
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur
+- Input nama pengguna  
+- Pertanyaan pilihan ganda  
+- Skor akhir  
+- Navigasi antar halaman  
+- State management menggunakan Provider //untuk mengambil data(manajemen soal)
+- Tampilan responsif dan menggunakan font custom
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Credit
+- Font: [Poppins – Google Fonts](https://fonts.google.com/specimen/Poppins)  
+- image dari google 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+![WhatsApp Image 2025-11-04 at 23 19 05_58aa943a](https://github.com/user-attachments/assets/ab2a08de-57c5-4043-ae32-6effafbd0776)
+
+![WhatsApp Image 2025-11-04 at 23 40 31_fe817919](https://github.com/user-attachments/assets/e25ce9e7-6077-4c02-bc18-391545702c9f)
+
+
+## Prototype/Mockup
+https://wordwall.net/id/resource/6737605/quiz-pengetahuan-umum
