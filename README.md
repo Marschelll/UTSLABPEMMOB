@@ -9,7 +9,8 @@
 
 ## Deskripsi
 Aplikasi ini adalah aplikasi kuis pilihan ganda sederhana di Flutter.  
-Pengguna dapat memasukkan nama, menjawab pertanyaan, dan melihat skor akhirnya.
+Pengguna cukup memasukkan nama, lalu menjawab pertanyaan yang muncul satu per satu.
+Di akhir permainan, skor pengguna akan ditampilkan
 
 ## Fitur
 - Input nama pengguna  
